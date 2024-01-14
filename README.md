@@ -23,4 +23,4 @@ This project is a dynamic web application that uses the REST Countries API to pu
 3. Use the search bar to find information about different countries.
 4. Use the color theme switcher to toggle between different themes.
 
-Try the website live on ""
+Try the website live on "https://where-in-the-world26.netlify.app/"
